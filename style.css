@@ -1,0 +1,14 @@
+.grid-container{
+    margin: 50px;
+    display: grid;
+    row-gap: 30px;
+    column-gap: 50px;
+    grid-area: auto;
+    background-color: grey;
+}
+
+
+.grid-item{
+    border: 3px solid black;
+    background-color: lightgray;
+}
